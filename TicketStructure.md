@@ -200,22 +200,24 @@ This should allow players to obtain an inventory based off the items available w
 ## Stretch Goals
 
 ### Ticket: `#U3_07`
-- Inclue a `project-details.md` to the **root** directory.
+- Inclue a `README.md` to the **root** directory.
   - Detail the concept of this project in psuedo code within the document.
   -  **[Pseudo Code Article](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)**
+  -  [What is a README file?](https://www.mygreatlearning.com/blog/readme-file/)
 - Deploy this project.
   - This can be through GitHub Pages or a platform of your choosing.
     - [Netlify](https://app.netlify.com/)
+    - [How To Deploy w/ GitHub Pages](https://www.loom.com/share/6ef32778118840eb88a4e6d4f00cc3d2?sid=16e2d6a4-ffdf-4cc8-bcd4-b841144f279c)
    -  Update the **README.md** with a hyperlink to the deployed URL.
       -  Do not remove project description.
       -  This can be at the top of the file.
 -  Add multiple rooms as you desire.
 -  Try to add a puzzle effect for one of your rooms.
    -  Examples:
-   -  Player must obtain the "orb" in order to pass through the magical gate.
-   -  or
-   -  Player must find the key to the basement door located in another room.
-      -  If a player doesn't have said key, deny access.
+      -  Player must obtain the "orb" in order to pass through the magical gate.
+      -  or
+      -  Player must find the key to the basement door located in another room.
+         -  If a player doesn't have said key, deny access.
 
 **Note:**
 - **Not Counted as a Stretch Goal**
