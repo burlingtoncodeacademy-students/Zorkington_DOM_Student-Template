@@ -200,7 +200,7 @@ This should allow players to obtain an inventory based off the items available w
 ## Stretch Goals
 
 ### Ticket: `#U3_07`
-- Inclue a `README.md` to the **root** directory.
+- Include a `README.md` to the **root** directory.
   - Detail the concept of this project in psuedo code within the document.
   -  **[Pseudo Code Article](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)**
   -  [What is a README file?](https://www.mygreatlearning.com/blog/readme-file/)
