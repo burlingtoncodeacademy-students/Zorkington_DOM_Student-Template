@@ -1,4 +1,6 @@
 # Zorkington
+## Project Rubric
+[Zorkington Rubric](https://docs.google.com/spreadsheets/d/1jjTB7JCIMuYIyNZe0e8vP1yHv3jg_rg9yU-5xo4c3c8/edit?usp=sharing)
 
 ## What is Zork?
 
